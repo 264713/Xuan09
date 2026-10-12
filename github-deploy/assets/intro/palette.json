@@ -1,0 +1,21 @@
+{
+  "main": "#62d7d4",
+  "glow": "#affff0",
+  "particle": "#eae989",
+  "core": "#effff1",
+  "source": {
+    "start": 175,
+    "end": 203,
+    "crop": [
+      0,
+      480,
+      1280,
+      170
+    ],
+    "method": "separate cyan/gold emissive mattes from lower combat arcs"
+  },
+  "placement": {
+    "cyan": "upper / outer arc",
+    "gold": "lower / inner arc"
+  }
+}

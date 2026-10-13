@@ -1,9 +1,0 @@
-/* Static frames extracted from the supplied Firefly cursor theme. */
-@media (hover: hover) and (pointer: fine) {
-  html, body, body * { cursor: url("cursors/normal.png") 3 5, default !important; }
-  p, li, input, textarea, [contenteditable="true"] { cursor: url("cursors/text.png") 9 17, text !important; }
-  a, a *, button, button *, [role="button"], [role="button"] *, label[for], select, summary, #welcomeScreen.can-enter, #welcomeScreen.can-enter * { cursor: url("cursors/link.png") 11 4, pointer !important; }
-  [title]:not(a):not(button) { cursor: url("cursors/help.png") 3 5, help !important; }
-  button:disabled, button:disabled *, [aria-disabled="true"] { cursor: url("cursors/unavailable.png") 16 16, not-allowed !important; }
-  [draggable="true"] { cursor: url("cursors/move.png") 17 18, move !important; }
-}

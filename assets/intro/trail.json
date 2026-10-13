@@ -1,0 +1,87 @@
+{
+  "frameWidth": 480,
+  "frameHeight": 480,
+  "frameCount": 36,
+  "columns": 6,
+  "rows": 6,
+  "fps": 24,
+  "duration": 1.5,
+  "playbackOrder": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35
+  ],
+  "anchor": {
+    "x": 0.1,
+    "y": 0.5
+  },
+  "blendMode": "screen",
+  "alpha": "straight",
+  "source": {
+    "start": 175,
+    "end": 203,
+    "sampleFps": 1.2857142857142858,
+    "retime": 18.666666666666668,
+    "crop": [
+      0,
+      480,
+      1280,
+      170
+    ]
+  },
+  "sword": {
+    "width": 384,
+    "height": 1536,
+    "anchor": {
+      "x": 0.5,
+      "y": 0.88
+    },
+    "sourceTime": 115,
+    "extractedBladeHeight": 236,
+    "grip": "manually reconstructed because occluded by hand",
+    "upscaled": true
+  },
+  "layers": {
+    "cyan": {
+      "y": 30,
+      "height": 180
+    },
+    "gold": {
+      "y": 270,
+      "height": 180
+    }
+  }
+}
